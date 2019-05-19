@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.openlifter.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.openlifter.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://www.openlifter.com/eo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.openlifter.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.openlifter.com/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.openlifter.com/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://www.openlifter.com/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.openlifter.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.openlifter.com/support/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.openlifter.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="eo"
+                href="https://www.openlifter.com/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.openlifter.com/tags/"
+                />
+  </url>
+  
+</urlset>

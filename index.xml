@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenLifter</title>
+    <link>https://www.openlifter.com/</link>
+    <description>Recent content on OpenLifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.openlifter.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About OpenLifter</title>
+      <link>https://www.openlifter.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/about/</guid>
+      <description>The OpenLifter project was started in November 2018 by the OpenPowerlifting team in order to advance the state of the art in competition software.  OpenLifter is designed to...  be the world&#39;s first free and open-source meet software; have a simple, obvious interface and not require much training; be completely crash-proof by using a single global state; work with one projector and one cheap computer running any OS; make the projected display audience-readable.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://www.openlifter.com/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/getting-started/</guid>
+      <description> This page will include a video of how to use the software. We haven&#39;t finished the video yet, though!   </description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://www.openlifter.com/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/support/</guid>
+      <description>Official Support  OpenLifter is free and open source, but does not come with a warranty or support.
+If you would like technical support for your meet, we offer several services &amp;mdash; from walking you through the software and making sure things are set up correctly, all the way to in-person score table direction and training for your staff.
+  Customization Get a version of OpenLifter specifically for your meet Have your logo projected!</description>
+    </item>
+    
+  </channel>
+</rss>
