@@ -22,10 +22,6 @@
   </url>
   
   <url>
-    <loc>https://www.openlifter.com/getting-started/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.openlifter.com/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -38,6 +34,14 @@
                 hreflang="en"
                 href="https://www.openlifter.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.openlifter.com/guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.openlifter.com/releases/</loc>
   </url>
   
   <url>

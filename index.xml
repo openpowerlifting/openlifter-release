@@ -19,16 +19,27 @@
     </item>
     
     <item>
-      <title>Getting Started</title>
-      <link>https://www.openlifter.com/getting-started/</link>
+      <title>OpenLifter Guide</title>
+      <link>https://www.openlifter.com/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openlifter.com/getting-started/</guid>
-      <description> This page will include a video of how to use the software. We haven&#39;t finished the video yet, though!   </description>
+      <guid>https://www.openlifter.com/guide/</guid>
+      <description>OpenLifter Guide    FAQ   Does OpenLifter support pounds? Yep.
+  Can one lifter be in multiple divisions or events? Yes. On the Registration page, the Division and Event fields can take multiple values for one lifter. The first Division that&#39;s entered will be the one shown on the Lifting screen table.
+  Can I have multiple platforms? Yes. You&#39;ll need some way to transfer files between computers: usually with a USB key.</description>
     </item>
     
     <item>
-      <title>Support</title>
+      <title>OpenLifter Releases</title>
+      <link>https://www.openlifter.com/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/releases/</guid>
+      <description> OpenLifter 1.0   July 31, 2019  Changes in Version 1.0 Initial public release.    </description>
+    </item>
+    
+    <item>
+      <title>OpenLifter Support</title>
       <link>https://www.openlifter.com/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
