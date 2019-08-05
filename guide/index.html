@@ -8,15 +8,15 @@
   
   <title>OpenLifter Guide</title>
 </head>
-<body class="container">
-  <header>
+<body>
+  <header class="container">
   <ul class="row menu">
-    <li class="col-xs-12 col-md-4 icon">
+    <li class="col-md-4 icon">
       <a href="/">
-        <img class="img-responsive" alt="Logo" src="/images/logo.svg"/>
+        <img class="img-fluid" alt="Logo" src="/images/logo.svg"/>
       </a>
     </li>
-    <li class="col-xs-12 col-md-8 menu">
+    <li class="col-md-8 menu">
       <a href="/about/"><h2>About</h2></a>
       <a href="/guide/"><h2>Guide</h2></a>
       <a href="/support/"><h2>Support</h2></a>
@@ -27,11 +27,14 @@
   </ul>
 </header>
 
-  
+  <div class="container">
+    
 <div class="row row-spacer">
-  <center>
-    <iframe src="https://player.vimeo.com/video/351111372" width="640" height="360" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
-  </center>
+  <div class="col-12">
+    <center>
+      <iframe src="https://player.vimeo.com/video/351111372" width="640" height="360" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+    </center>
+  </div>
 </div>
 
 <div class="row row-spacer">
@@ -97,6 +100,13 @@
       </li>
 
       <li>
+        <h3>I see M, F, and Mx weight classes. What's Mx?</h3>
+        <p>Mx (pronounced <i>Muks</i>) is <a href="https://en.wikipedia.org/wiki/Mx_(title)">a gender-neutral title</a> &mdash; like Mr and Ms &mdash; originating from the UK.</p>
+        <p>Most federations require lifters to compete in either the male or female categories. Some federations additionally allow lifters to enter a third category. Mx is all-inclusive: it can include non-binary lifters without forcing assignation into the standard dichotomy.</p>
+        <p>If you wanted to run a competition where men and women are all competing together, you could put everyone into the Mx category.</p>
+      </li>
+
+      <li>
         <h3>Does this auto-submit results to OpenPowerlifting?</h3>
         <p>No. OpenPowerlifting requires the sanctioning federation to certify the results, so results can't be received directly. However, if you click the "Export for OpenPowerlifting" button on the Results page, it will download the results in a format that is <i>really</i> convenient for us. If you'd like to make our lives easier, <a href="https://www.openpowerlifting.org/contact">sending in those files</a> would be helpful. We can add them after the sanctioning body approves them.</p>
       </li>
@@ -109,7 +119,8 @@
   </div>
 </div>
 
-  <footer>
+  </div>
+  <footer class="container">
   <p>
     Our site in other languages:
     <a href="https://www.openlifter.com/">English</a>, <a href="https://www.openlifter.com/eo/">Esperanto</a>

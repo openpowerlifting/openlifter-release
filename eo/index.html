@@ -21,15 +21,15 @@
   <meta name="msapplication-TileColor" content="#d0203b">
   <meta name="theme-color" content="#d0203b">
 </head>
-<body class="container">
-  <header>
+<body>
+  <header class="container">
   <ul class="row menu">
-    <li class="col-xs-12 col-md-4 icon">
+    <li class="col-md-4 icon">
       <a href="/eo/">
-        <img class="img-responsive" alt="Logo" src="/images/logo.svg"/>
+        <img class="img-fluid" alt="Logo" src="/images/logo.svg"/>
       </a>
     </li>
-    <li class="col-xs-12 col-md-8 menu">
+    <li class="col-md-8 menu">
       <a href="/eo/about/"><h2>Detaloj</h2></a>
       <a href="/eo/guide/"><h2>Gvidilo</h2></a>
       <a href="/eo/support/"><h2>Asisto</h2></a>
@@ -41,35 +41,37 @@
 </header>
 
 
-  <div class="row pitch-row">
-    <div class="col-md-8">
-      <p class="pitch"><b>OpenLifter</b> estas simpla konkurso-softvaro kiu ĉie funkcias rapide, fideble, kaj plaĉe.</p>
+  <div class="container">
+    <div class="row pitch-row row-spacer">
+      <div class="col-md-8">
+        <p class="pitch"><b>OpenLifter</b> estas simpla konkurso-softvaro kiu ĉie funkcias rapide, fideble, kaj plaĉe.</p>
+      </div>
+      <div class="col-md-4">
+        <a class="release-button" href="/releases/1.0/">
+          <div class="release-version">
+            Lanĉu OpenLifter
+            <span>1.0</span>
+          </div>
+        </a>
+      </div>
     </div>
-    <div class="col-md-4">
-      <a class="release-button" href="/releases/1.0/">
-        <div class="release-version">
-          Lanĉu OpenLifter
-          <span>1.0</span>
-        </div>
-      </a>
+
+    <div class="row code-row row-spacer">
+      <div class="col-md-4">
+        <h2>Funkciaro</h2>
+        <ul class="laundry-list">
+          <li>sekvanta platordo</li><li>aŭtomata konservo</li><li>neniom da kraŝoj</li><li>neniom da excel</li><li>plenloka reĝimo</li><li>klara, granda teksto</li><li>tujaj rezultoj</li><li>multfederaciaj reguloj</li>
+        </ul>
+      </div>
+      <div class="col-md-8">
+        <a href="/images/example-yury.png">
+          <img class="img-fluid" alt="Example" id="example-image" src="/images/example-yury.png">
+        </a>
+      </div>
     </div>
   </div>
 
-  <div class="row code-row">
-    <div class="col-md-4">
-      <h2>Funkciaro</h2>
-      <ul class="laundry-list">
-        <li>sekvanta platordo</li><li>aŭtomata konservo</li><li>neniom da kraŝoj</li><li>neniom da excel</li><li>plenloka reĝimo</li><li>klara, granda teksto</li><li>tujaj rezultoj</li><li>multfederaciaj reguloj</li>
-      </ul>
-    </div>
-    <div class="col-md-8">
-      <a href="/images/example-yury.png">
-        <img class="img-responsive" alt="Example" id="example-image" src="/images/example-yury.png">
-      </a>
-    </div>
-  </div>
-
-  <footer>
+  <footer class="container">
   <p>
     Nia retejo en aliaj lingvoj:
     <a href="https://www.openlifter.com/">English</a>, <a href="https://www.openlifter.com/eo/">Esperanto</a>
