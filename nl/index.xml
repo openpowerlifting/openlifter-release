@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenLifter</title>
+    <link>https://www.openlifter.com/nl/</link>
+    <description>Recent content on OpenLifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.openlifter.com/nl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenLifter Releases</title>
+      <link>https://www.openlifter.com/nl/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/nl/releases/</guid>
+      <description>Run OpenLifter Beta   In Development  Major Changes Coming in the Next Version The current lifter&#39;s Instagram can be displayed for the audience. Added Reshel as a Best Lifter formula. Registrations can be exported to CSV. The current attempt is much more visually apparent. Meets run in pounds now export results in pounds.   Run OpenLifter 1.0.1   August 5, 2019  Major Changes in Version 1.</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter ondersteuning</title>
+      <link>https://www.openlifter.com/nl/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/nl/support/</guid>
+      <description>Officiële ondersteuning  OpenLifter is gratis en open source, maar komt niet met garantie of ondersteuning.
+Als je technische ondersteuning wilt voor je wedstrijd, dan bieden wij meerdere diensten aan &amp;mdash; van je wegwijs maken in de software tot het nakijken dat alles goed ingesteld is, tot zelfs helemaal in persoon de wedstrijdtafel draaien en je personeel te trainen.
+  Aangepaste Krijg een specifieke versie van OpenLifter voor je wedstrijd Laat je logo projecteren!</description>
+    </item>
+    
+    <item>
+      <title>Openlifter Handboek</title>
+      <link>https://www.openlifter.com/nl/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/nl/guide/</guid>
+      <description>FAQ  Heeft OpenLifter ondersteuning voor lbs? Ja.
+  Kan een lifter en meerdere divisies en evenementen meedoen? Ja, op de registratie pagina kunnen de divisie en evenementen velden meerdere waarden hebben voor één lifter. De eerste divisie die ingevoerd wordt zal weergegeven worden tijdens de wedstrijd op het wedstrijdscherm.
+  Kan ik meerdere plankieren hebben? Ja, maar je moet wel een manier hebben om dan de informatie uit te wisselen tussen meerdere computers.</description>
+    </item>
+    
+    <item>
+      <title>Over OpenLifter</title>
+      <link>https://www.openlifter.com/nl/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/nl/about/</guid>
+      <description>Vergelijkingslijst   Hier is een makkelijke manier om OpenLifter te vergelijken met andere software  Wij hebben de volgende vergelijkingslijst in samenspraak met de auteur van LiftingCast gemaakt en zijn ervan overtuigd dat deze accuraat is.     OpenLifter LiftingCast NextLifter IronComp    Startpagina openlifter.com liftingcast.com nextlifter.com Geen   Licentie Gratis (AGPLv3+) Gepatendeerd Gratis software Gepatendeerd   Kosten Gratis Gratis (Premium $0.75/Atleet) Excel licentie ($70/jaar) Gratis   Werkt op Elke browser Alleen op Chrome Microsoft Excel Windows en macOS   Talen Veel Alleen Engels Alleen Engels Alleen Engels   Werkt offline Ja Ja Ja Ja   Beeldscherm benodigd 1 per plankier 2+ per plankier 1 per plankier 1 per plankier   Federaties Alle federaties Alle federaties Alle federaties Alleen IPL   Online scoreboard Nee Ja (met premium) Nee Nee   Meerdere platformen Ja (USB-stick) Ja (met premium) Nee Ja (USB-stick)   Automatisch opslaan Ja Ja Nee Nee   Training nodig Minimaal Gemiddeld Gemiddeld (problemen) Significant   Registratie Automatisch (CSV) Automatisch (met premium) Handmatig Automatisch (CSV)      Over OpenLifter  Het OpenLifter project is gestart op November 2018 door het OpenPowerlifting team om de beste competitie software te ontwikkelen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenLifter</title>
+    <link>https://www.openlifter.com/de/</link>
+    <description>Recent content on OpenLifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.openlifter.com/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenLifter Anleitung</title>
+      <link>https://www.openlifter.com/de/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/de/guide/</guid>
+      <description>FAQ  Unterstützt OpenLifter Pfund (lbs)? Ja.
+  Kann ein Teilnehmer in mehreren Klassen oder Disziplinen eingetragen sein? Ja. Auf der Registrierungsseite können für einen Teilnehmer mehrere Klassen und Disziplinen eingetragen werden. Die erste Disziplin die eingetragen wird, wird auf der angezeigten Wettkampfstabelle erscheinen.
+  Kann es mehrere Wettkampfplattformen geben? Ja. In diesem Fall muss eine Möglichkeit gefunden werden die Daten zwischen mehreren Computern auszutauschen, üblicherweise per USB.</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter Support</title>
+      <link>https://www.openlifter.com/de/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/de/support/</guid>
+      <description>Offizieller Support  OpenLifter ist kostenlos und ein open source Programm. Leider gibt es keine Garantie oder Support.
+Falls Sie technische Hilfe für Ihren Wettkampf benötigen, bieten wir mehrere Optionen an &amp;mdash; alles von einem generellen Tutorial zur Software und einem Service um zu schauen ob alles korrekt eingegeben wurde, bis hin zu Unterstützung bei der Ergebnisverwaltung und Schulung Ihrer Angestellten vor Ort.
+  Anpassen Bestellen Sie eine OpenLifter Version speziell für Ihren Wettkampf Projezieren Sie ihr eigenes Logo!</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter Veröffentlichungen</title>
+      <link>https://www.openlifter.com/de/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/de/releases/</guid>
+      <description>Run OpenLifter Beta   In der Entwicklung  Wesentliche Änderungen kommen in der nächsten Version The current lifter&#39;s Instagram can be displayed for the audience. Added Reshel as a Best Lifter formula. Registrations can be exported to CSV. The current attempt is much more visually apparent. Meets run in pounds now export results in pounds.   Run OpenLifter 1.0.1   August 5, 2019  Major Changes in Version 1.</description>
+    </item>
+    
+    <item>
+      <title>Über OpenLifter</title>
+      <link>https://www.openlifter.com/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/de/about/</guid>
+      <description>Vergleichstabelle   Hier können Sie einfach sehen wie OpenLifter im Vergleich zu anderen Software abschneidet  Wir haben die folgende Vergleichstabelle unter Absprache mit dem Autor von LiftingCast erstellt und sind von ihrer Richtigkeit überzeugt.     OpenLifter LiftingCast NextLifter IronComp    Startseite openlifter.com liftingcast.com nextlifter.com Keine   Lizenz Kostenlos (AGPLv3+) Eigentum kostenlose Software Eigentum   Kosten Kostenlos Kostenlos (Premium $0.75 pro Teilnehmer) Excel Lizenz ($70 pro Jahr) Kostenlos   Ausführbar auf Jedem Browser Nur Chrome Microsoft Excel Windows and macOS   Sprachen Viele Nur Englisch Nur Englisch Nur Englisch   Funktioniert im Offline-modus Ja Ja Ja Ja   Benötigte Bildschirme 1 pro Plattform 2+ pro Plattform 1 pro Plattform 1 pro Plattform   Verbände Alle Verbände Alle Verbände Alle Verbände Nur IPL   Online Ergebnisliste Nein Ja (nur Premium) Nein Nein   Mehrere Plattformen Ja (USB Stecker) Ja (nur Premium) Nein Ja (USB Stecker)   Automatisches Speichern Ja Ja Nein Nein   Schulung benötigt Minimal mäßig mäßig (Fehler) erheblich   Regestrierung Automatisch (CSV) Automatisch (nur Premium) Manuell Automatisch (CSV)      Über OpenLifter  Das OpenLifter Projekt wurde im November 2018 von dem OpenPowerlifting Team entwickelt um den Wettkampfsoftware-Standard zu erhöhen und auf den neusten Stand zu bringen.</description>
+    </item>
+    
+  </channel>
+</rss>
