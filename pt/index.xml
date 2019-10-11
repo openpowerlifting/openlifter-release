@@ -16,7 +16,7 @@
       
       <guid>https://www.openlifter.com/pt/guide/</guid>
       <description>Perguntas Frequentes  O OpenLifter tem suporte para libras? Sim.
-  Um levantador pode estar em várias divisões ou eventos? Sim. Na página Cadastro, os campos para a Divisão e o Evento aceitam múltiplos valores para um levantador. A primeira Divisão inserida será a mostrada na tela da tabela de Levantamento.
+  Um competidor pode estar em várias divisões ou eventos? Sim. Na página Cadastro, os campos para a Divisão e o Evento aceitam múltiplos valores para um competidor. A primeira Divisão inserida será a mostrada na tela da tabela de Levantamento.
   Posso ter múltiplas plataformas? Sim. Você irá precisar de alguma forma de transferir arquivos entre computadores, como um dispositivo USB.</description>
     </item>
     
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.openlifter.com/pt/about/</guid>
-      <description>Gráfico de comparação   Eis uma forma fácil de ver como o OpenLifter se compara a outros programas.  Desenvolvemos o seguinte gráfico comparativo após consultar o autor do LiftingCast e acreditamos estar correto.     OpenLifter LiftingCast NextLifter IronComp    Homepage openlifter.com liftingcast.com nextlifter.com Nenhum   Licença Gratuito (AGPLv3+) Proprietário Freeware Proprietário   Custo Gratuito Gratuito (Premium $0,75/Levantador) Licença do Excel ($70/ano) Gratuito   Roda em Qualquer Navegador Apenas no Chrome Microsoft Excel Windows e macOS   Idiomas Vários Apenas Inglês Apenas Inglês Apenas Inglês   Funciona Offline Sim Sim Sim Sim   Telas Necessárias 1 por Plataforma 2+ por Plataforma 1 por Plataforma 1 por Plataforma   Federações Todas as Federações Todas as Federações Todas as Federações Apenas IPL   Placar Online Não Sim (com Premium) Não Não   Multi-Plataforma Sim (dispositivo USB) Sim (com Premium) Não Sim (dispositivo USB)   Salvamento automático Sim Sim Não Não   Treinamento Necessário Mínimo Moderado Moderado (Problemas) Significativo   Cadastro Automático (CSV) Automático (com Premium) Manual Automático (CSV)      Sobre OpenLifter  O projeto OpenLifter teve início em Novembro de 2018 pela equipe OpenPowerlifting a fim de desenvolver um programa de competição de última geração.</description>
+      <description>Gráfico de comparação   Eis uma forma fácil de ver como o OpenLifter se compara a outros programas.  Desenvolvemos o seguinte gráfico comparativo após consultar o autor do LiftingCast e acreditamos estar correto.     OpenLifter LiftingCast NextLifter IronComp    Homepage openlifter.com liftingcast.com nextlifter.com Nenhum   Licença Livre (AGPLv3+) Proprietário Freeware Proprietário   Custo Gratuito Gratuito (Premium $0,75/Competidor) Licença do Excel ($70/ano) Gratuito   Roda em Qualquer Navegador Apenas no Chrome Microsoft Excel Windows e macOS   Idiomas Vários Apenas Inglês Apenas Inglês Apenas Inglês   Funciona Offline Sim Sim Sim Sim   Telas Necessárias 1 por Plataforma 2+ por Plataforma 1 por Plataforma 1 por Plataforma   Federações Todas as Federações Todas as Federações Todas as Federações Apenas IPL   Placar Online Não Sim (com Premium) Não Não   Multi-Plataforma Sim (dispositivo USB) Sim (com Premium) Não Sim (dispositivo USB)   Salvamento automático Sim Sim Não Não   Treinamento Necessário Mínimo Moderado Moderado (Problemas) Significativo   Cadastro Automático (CSV) Automático (com Premium) Manual Automático (CSV)      Sobre OpenLifter  O projeto OpenLifter teve início em Novembro de 2018 pela equipe OpenPowerlifting a fim de desenvolver um programa de competição de última geração.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.openlifter.com/pt/support/</guid>
-      <description>Suporte Oficial  O OpenLifter é gratuito e de código aberto, mas não vem com garantia ou suporte.
+      <description>Suporte Oficial  O OpenLifter é livre e de código aberto, mas não vem com garantia ou suporte.
 Se você quiser suporte técnico para sua competição, nós oferecemos vários serviços &amp;mdash; desde o passo a passo de como configurar o programa, a treinamento presencial para sua equipe.
   Personalização Adquira uma versão do OpenLifter especificamente para sua competição Projete seu logotipo! Sua própria marca Recursos personalizados Versões para Desktop A partir de US$75  Entre em contato conosco   Suporte Online Realize uma competição com total confiança técnica Treinamento para sua equipe Suporte iliimtado por e-mail Suporte telefônico no dia da competição A partir de US$120  Entre em contato conosco   Suporte Presencial Tenha a equipe OpenPowerlifting cuidando da sua tabela de pontuação Nós faremos tudo!</description>
     </item>
