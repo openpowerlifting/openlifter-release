@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenLifter</title>
+    <link>https://www.openlifter.com/hr/</link>
+    <description>Recent content on OpenLifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.openlifter.com/hr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenLifter detalji</title>
+      <link>https://www.openlifter.com/hr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/hr/about/</guid>
+      <description>Usporedna tablica   Jednostavan način kakav je OpenLifter u usporedbi s drugim softverom.  Usporedna tablica je sastavljena u konzultacijama s autorom LiftingCast programa i vjerujemo da je točna.     OpenLifter LiftingCast NextLifter IronComp    Stranica openlifter.com liftingcast.com nextlifter.com Nema   Licenca Slobodna (AGPLv3+) Vlasnička Freeware Vlasnička   Cijena Besplatan Besplatan (Premium 0,75$/natjecatelj) Excel licenca (70$/godišnje) Besplatan   Radi na Svaki preglednik Samo Chrome Microsoft Excel Windows i macOS   Jezici Mnogo Samo engleski Samo engleski Samo engleski   Radi offline Da Da Da Da   Potrebno ekrana 1 po platformi 2+ po platformi 1 po platformi 1 po platformi   Federacije Sve federacije Sve federacije Sve federacije Samo IPL   Online rezultati Ne Da (samo Premium) Ne Ne   Više platformi Da (USB stick) Da (samo Premium) Ne Da (USB stick)   Automatsko spremanje Da Da Ne Ne   Potrebna obuka Minimalna Umjerena Umjerena (problemi) Značajna   Registracija Automatska (CSV) Automatska (samo Premium) Ručna Automatska (CSV)      O OpenLifter projektu  OpenLifter projekt je započet u studenom 2018.</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter podrška</title>
+      <link>https://www.openlifter.com/hr/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/hr/support/</guid>
+      <description>Službena podrška  OpenLifter je besplatan i otvorenog koda, međutim, ne dolazi sa garancijom niti podrškom.
+Ukoliko Vam je potrebna tehnička podrška za Vaše natjecanje, nudimo nekoliko usluga &amp;mdash; od prolaženja kroz softver korak po korak i osiguravanja da je sve dobro postavljeno, sve do osobne pomoći oko vođenja natjecanja i obuke za Vaše osoblje.
+  Prilagodba Zatražite verziju OpenLifter softvera napravljenu specifično za Vaše natjecanje Vaš logo na projektoru!</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter verzije</title>
+      <link>https://www.openlifter.com/hr/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/hr/releases/</guid>
+      <description>Run OpenLifter Beta   U razvoju  Glavne promjene u sljedećoj verziji The current lifter&#39;s Instagram can be displayed for the audience. Added Reshel as a Best Lifter formula. Registrations can be exported to CSV. The current attempt is much more visually apparent. Meets run in pounds now export results in pounds.   Run OpenLifter 1.0.1   August 5, 2019  Major Changes in Version 1.0.1 Fixed a display issue with the Lifting table when the Best Lifter formula is set to &#34;</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter vodič</title>
+      <link>https://www.openlifter.com/hr/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/hr/guide/</guid>
+      <description>ČPP  Podržava li OpenLifter funte? Da.
+  Može li jedan natjecatelj sudjelovati u više kategorija ili disciplina? Može. Na stranici registracije, polja Dobna Kategorija i Disciplina mogu sadržavati više vrijednosti za jednog natjecatelja. Prva Dobna Kategorija koja se unese će biti prikazana na tablici stranice Dizanje.
+  Mogu li imati više platformi? Da. Potreban je neki način razmjene datoteka između računala, obično koristeći USB stick.</description>
+    </item>
+    
+  </channel>
+</rss>
