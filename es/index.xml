@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenLifter</title>
+    <link>https://www.openlifter.com/es/</link>
+    <description>Recent content on OpenLifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.openlifter.com/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acerca de OpenLifter</title>
+      <link>https://www.openlifter.com/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/es/about/</guid>
+      <description>Cuadro comparativo   Here&#39;s an easy way to see how OpenLifter compares to other software.  We developed the following comparison chart in consultation with the author of LiftingCast and believe that it is accurate.     OpenLifter LiftingCast NextLifter IronComp    Sitio openlifter.com liftingcast.com nextlifter.com Ninguno   Licencia Libre (AGPLv3+) Propietario Freeware Propietario   Precio Gratis Free (Premium $0.75/Lifter) Excel License ($70/year) Gratis   Runs On Any Browser Chrome Only Microsoft Excel Windows and macOS   Idiomas Muchos Solo inglés Solo inglés Solo inglés   Works Offline Sí Sí Sí Sí   Screens Needed 1 per Platform 2+ per Platform 1 per Platform 1 per Platform   Federaciones Todas Todas Todas Solo IPL   Online Scoreboard No Yes (with Premium) No No   Multi-Platform Yes (USB stick) Yes (with Premium) No Yes (USB stick)   Autosave Sí Sí No No   Training Needed Minimal Moderate Moderate (Issues) Significant   Registration Automático (CSV) Automatic (with Premium) Manual Automático (CSV)      Acerca de OpenLifter  The OpenLifter project was started in November 2018 by the OpenPowerlifting team in order to advance the state of the art in competition software.</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter Guide</title>
+      <link>https://www.openlifter.com/es/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/es/guide/</guid>
+      <description>FAQ  Does OpenLifter support pounds? Yep.
+  Can one lifter be in multiple divisions or events? Yes. On the Registration page, the Division and Event fields can take multiple values for one lifter. The first Division that&#39;s entered will be the one shown on the Lifting screen table.
+  Can I have multiple platforms? Yes. You&#39;ll need some way to transfer files between computers, usually with a USB key.</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter Releases</title>
+      <link>https://www.openlifter.com/es/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/es/releases/</guid>
+      <description>Run OpenLifter Beta   In Development  Major Changes Coming in the Next Version Added translations for Chinese (Simplified), Croatian, Dutch, German, Esperanto, Lithuanian, Portuguese, Russian, Spanish, and Turkish. The current attempt is much more visually apparent. The current lifter&#39;s Instagram can be displayed for the audience. Meets run in pounds now export results in pounds. Age can be set on the Registrations page and imported by CSV. Registrations can be exported to CSV.</description>
+    </item>
+    
+    <item>
+      <title>OpenLifter Support</title>
+      <link>https://www.openlifter.com/es/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/es/support/</guid>
+      <description>Official Support  OpenLifter is free and open source, but does not come with a warranty or support.
+If you would like technical support for your meet, we offer several services &amp;mdash; from walking you through the software and making sure things are set up correctly, all the way to in-person score table direction and training for your staff.
+  Customization Get a version of OpenLifter specifically for your meet Have your logo projected!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenLifter</title>
@@ -10,12 +10,14 @@
     
     
     <item>
-      <title>OpenLifter Releases</title>
-      <link>https://www.openlifter.com/nl/releases/</link>
+      <title>Openlifter Handboek</title>
+      <link>https://www.openlifter.com/nl/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openlifter.com/nl/releases/</guid>
-      <description>Run OpenLifter Beta   In Development  Major Changes Coming in the Next Version The current lifter&#39;s Instagram can be displayed for the audience. Added Reshel as a Best Lifter formula. Registrations can be exported to CSV. The current attempt is much more visually apparent. Meets run in pounds now export results in pounds.   Run OpenLifter 1.0.1   August 5, 2019  Major Changes in Version 1.</description>
+      <guid>https://www.openlifter.com/nl/guide/</guid>
+      <description>FAQ  Heeft OpenLifter ondersteuning voor lbs? Ja.
+  Kan een lifter en meerdere divisies en evenementen meedoen? Ja, op de registratie pagina kunnen de divisie en evenementen velden meerdere waarden hebben voor één lifter. De eerste divisie die ingevoerd wordt zal weergegeven worden tijdens de wedstrijd op het wedstrijdscherm.
+  Kan ik meerdere plankieren hebben? Ja, maar je moet wel een manier hebben om dan de informatie uit te wisselen tussen meerdere computers.</description>
     </item>
     
     <item>
@@ -30,14 +32,12 @@ Als je technische ondersteuning wilt voor je wedstrijd, dan bieden wij meerdere 
     </item>
     
     <item>
-      <title>Openlifter Handboek</title>
-      <link>https://www.openlifter.com/nl/guide/</link>
+      <title>OpenLifter Releases</title>
+      <link>https://www.openlifter.com/nl/releases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.openlifter.com/nl/guide/</guid>
-      <description>FAQ  Heeft OpenLifter ondersteuning voor lbs? Ja.
-  Kan een lifter en meerdere divisies en evenementen meedoen? Ja, op de registratie pagina kunnen de divisie en evenementen velden meerdere waarden hebben voor één lifter. De eerste divisie die ingevoerd wordt zal weergegeven worden tijdens de wedstrijd op het wedstrijdscherm.
-  Kan ik meerdere plankieren hebben? Ja, maar je moet wel een manier hebben om dan de informatie uit te wisselen tussen meerdere computers.</description>
+      <guid>https://www.openlifter.com/nl/releases/</guid>
+      <description>Run OpenLifter Beta   In Development  Major Changes Coming in the Next Version Added translations for Chinese (Simplified), Croatian, Dutch, German, Esperanto, Lithuanian, Portuguese, Russian, Spanish, and Turkish. The current attempt is much more visually apparent. The current lifter&#39;s Instagram can be displayed for the audience. Meets run in pounds now export results in pounds. Age can be set on the Registrations page and imported by CSV. Registrations can be exported to CSV.</description>
     </item>
     
     <item>

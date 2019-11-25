@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://www.openlifter.com/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.openlifter.com/es/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
@@ -43,7 +48,6 @@
   
   <url>
     <loc>https://www.openlifter.com/en/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -53,6 +57,11 @@
                 rel="alternate"
                 hreflang="eo"
                 href="https://www.openlifter.com/eo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.openlifter.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,7 +92,6 @@
   
   <url>
     <loc>https://www.openlifter.com/en/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -93,6 +101,11 @@
                 rel="alternate"
                 hreflang="eo"
                 href="https://www.openlifter.com/eo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.openlifter.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -135,8 +148,18 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://www.openlifter.com/es/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="https://www.openlifter.com/eo/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.openlifter.com/nl/guide/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -150,11 +173,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://www.openlifter.com/nl/guide/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.openlifter.com/en/guide/"
                 />
@@ -162,6 +180,11 @@
   
   <url>
     <loc>https://www.openlifter.com/en/releases/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.openlifter.com/es/releases/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -179,13 +202,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.openlifter.com/de/releases/"
+                hreflang="hr"
+                href="https://www.openlifter.com/hr/releases/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="hr"
-                href="https://www.openlifter.com/hr/releases/"
+                hreflang="de"
+                href="https://www.openlifter.com/de/releases/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -208,11 +231,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.openlifter.com/de/support/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="nl"
                 href="https://www.openlifter.com/nl/support/"
                 />
@@ -220,6 +238,16 @@
                 rel="alternate"
                 hreflang="hr"
                 href="https://www.openlifter.com/hr/support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.openlifter.com/de/support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.openlifter.com/es/support/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -240,7 +268,6 @@
   
   <url>
     <loc>https://www.openlifter.com/en/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -250,6 +277,11 @@
                 rel="alternate"
                 hreflang="eo"
                 href="https://www.openlifter.com/eo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.openlifter.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
