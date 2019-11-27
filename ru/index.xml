@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenLifter</title>
+    <link>https://www.openlifter.com/ru/</link>
+    <description>Recent content on OpenLifter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://www.openlifter.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Выпуски OpenLifter</title>
+      <link>https://www.openlifter.com/ru/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/ru/releases/</guid>
+      <description>Run OpenLifter Beta   В процессе развития  Важнейшие изменения ожидаются в следующей версии Added translations for Chinese (Simplified), Croatian, Dutch, German, Esperanto, Lithuanian, Portuguese, Russian, Spanish, and Turkish. The current attempt is much more visually apparent. The current lifter&#39;s Instagram can be displayed for the audience. Meets run in pounds now export results in pounds. Age can be set on the Registrations page and imported by CSV. Registrations can be exported to CSV.</description>
+    </item>
+    
+    <item>
+      <title>Инструкция OpenLifter</title>
+      <link>https://www.openlifter.com/ru/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/ru/guide/</guid>
+      <description>часто задаваемые вопросы  Поддерживает ли OpenLifter измерения в фунтах? Да.
+  Может ли один атлет находиться в нескольких дивизионах или дисциплинах? Да. На странице Регистрация поля Дивизион и Дисциплина могут принимать несколько значений для одного атлета. Первым введенным дивизионом будет та, которая отображается на экране Таблица Подходов.
+  Могу ли я иметь несколько платформ? Да. Вам понадобится способ передачи файлов между компьютерами, обычно с помощью USB.</description>
+    </item>
+    
+    <item>
+      <title>О OpenLifter</title>
+      <link>https://www.openlifter.com/ru/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/ru/about/</guid>
+      <description>Сравнительная таблица   Вот простой способ сравнить OpenLifter с другими программами.  Мы разработали следующую сравнительную таблицу после консультации с автором LiftingCast и считаем, что она является точной.     OpenLifter LiftingCast NextLifter IronComp     Домашняя страница openlifter.com liftingcast.com nextlifter.com None   Лицензия Free (AGPLv3+) Собственность Freeware Собственность   Стоимость Бесплатно Бесплатно (Premium $0,75/Спортсмен) Лицензия Excel ($70/год) Бесплатно   Работает на Любом браузер Только Chrome Microsoft Excel Windows и macOS   поддерживаемые языки много разных только английский только английский только английский   Работает в офлайне Да Да Да Да   Необходимые экраны 1 на платформу 2+ на платформу 1 на платформу 1 на платформу   Федерации Все федерации Все федерации Все федерации Только IPL   Онлайн таблица результатов Нет Да (с Premium) Нет Нет   Много-платформенный Да (USB) Да (с Premium) Нет Да (USB)   Автосохранение Да Да Нет Нет   Потребуется обучение Минимальное Средний Средняя (Проблемы) Значительное   Регистрация Автоматическое (CSV) Автоматическое (с Premium) Ручное Автоматическое (CSV)      О OpenLifter  Проект OpenLifter был запущен в ноябре 2018 года командой OpenPowerlifting для продвижения передовых технологий в области конкурсного программного обеспечения.</description>
+    </item>
+    
+    <item>
+      <title>Поддержка OpenLifter</title>
+      <link>https://www.openlifter.com/ru/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.openlifter.com/ru/support/</guid>
+      <description>Официальная поддержка  OpenLifter является бесплатным и с открытым исходным кодом, но не поставляется с гарантией или поддержкой.
+Если вы хотите получить техническую поддержку для вашего соревнования, мы предлагаем несколько услуг &amp;mdash; от обучения вас OpenLifter и проверки правильности настроек, вплоть до очного руководства и обучения вашего персонала
+  Персонализации  Получите версию OpenLifter специально для вашего соревнования Проектируйте свой логотип! Ваш собственный бренд Custom features Desktop versions Starting at US$75  Свяжитесь с нами   Online Support Проводите соревнования с полной технической уверенностью Обучение вашего персонала Неограниченная поддержка по электронной почте Телефонная поддержка в день соревнований Начиная от $120   Свяжитесь с нами   In-Person Support Закажите команду из OpenPowerlifting работать как жюри.</description>
+    </item>
+    
+  </channel>
+</rss>

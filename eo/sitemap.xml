@@ -36,6 +36,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.openlifter.com/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-hans"
                 href="https://www.openlifter.com/zh-hans/categories/"
                 />
@@ -77,6 +82,11 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://www.openlifter.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.openlifter.com/ru/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -129,6 +139,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.openlifter.com/ru/support/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="https://www.openlifter.com/eo/support/"
                 />
@@ -170,6 +185,11 @@
                 rel="alternate"
                 hreflang="zh-hans"
                 href="https://www.openlifter.com/zh-hans/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.openlifter.com/ru/guide/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -217,6 +237,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.openlifter.com/ru/releases/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="eo"
                 href="https://www.openlifter.com/eo/releases/"
                 />
@@ -253,6 +278,11 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.openlifter.com/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.openlifter.com/ru/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -297,6 +327,11 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://www.openlifter.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.openlifter.com/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
